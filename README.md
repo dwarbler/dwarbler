@@ -8,6 +8,9 @@
 
 I'm a dev from America who really enjoys high-efficiency programming and data in all of it's forms. 
 
+### My Toolkit
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 <!--
 **DerekW3/derekw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
