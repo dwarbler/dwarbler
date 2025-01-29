@@ -5,6 +5,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dwarbler/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21737259/dwarbler)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dwarbler)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/185375507-derek)
 
 </div>
 
@@ -14,7 +15,9 @@
 
 </div>
 
-I am **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. I love creating highly optimized programs both theoretically and practically. Software engineering is not only my job, but my passion, and I strive not to learn it but instead to master it. When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages.
+I am **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. Software engineering is not only my job, but my passion, and I strive not to learn it but instead to master it. I'm an avid Pythonista and Rustacean, utilizing both languages in a wide variety of projects in the fields of scientific computing, data science, web development and even finance and high frequency trading.
+
+When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages. You can checkout what I'm watching/reading below
 
 <div align="center">
 
