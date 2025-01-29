@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm Derek
+
+![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&color=blue&link=www.linkedin.com%2Fin%2Fderek-warner-994339267)
+
 
 <!--
 **DerekW3/derekw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
