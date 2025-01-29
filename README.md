@@ -1,11 +1,21 @@
-## Hey, I'm Derek
+<div align="center">
 
+## Hey, I'm Derek
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derek-warner-994339267/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/dwarbler/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21737259/dwarbler)
 
+</div>
+
+<div align="center">
+
 ### About Me
+
+</div>
+
 I am **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. I love creating highly optimized programs both theoretically and practically. Software engineering is not only my job, but my passion, and I strive not to learn it but instead to master it. When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages.
+
+<div align="center">
 
 ### My Toolkit
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -20,10 +30,16 @@ I am **Derek Warner**, a computational physics student at the University of Illi
 <img align="left" alt="Homebrew" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
 <br /> <br />
 
-### I speak
+</div>
+
+<div align="center">
+
+### Feel free to speak to me in
 ![American Flag](github_profile_assets/american_flag.png)
 ![Italian Flag](github_profile_assets/italian_flag.png)
 ![Japanese Flag](github_profile_assets/japanese_flag.png)
+
+</div>
 
 <!--
 **DerekW3/derekw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
