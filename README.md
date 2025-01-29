@@ -5,8 +5,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21737259/dwarbler)
 
 ## About Me
-
-I'm a dev from America who really enjoys high-efficiency programming and data in all of it's forms. 
+I am **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. I love creating highly optimized programs both theoretically and practically. Software engineering is not only my job, but my passion, and I strive not to learn it but instead to master it. When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages.
 
 ### My Toolkit
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -19,6 +18,8 @@ I'm a dev from America who really enjoys high-efficiency programming and data in
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />          
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Homebrew" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/homebrew/homebrew-original.svg" />
+
+### I speak
 
 <!--
 **DerekW3/derekw3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
