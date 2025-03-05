@@ -17,9 +17,9 @@
 
 </div>
 
-I am **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. Software engineering is not only my job, but my passion, and I strive not to learn it but instead to master it. I'm an avid Pythonista and Rustacean, utilizing both languages in a wide variety of projects in the fields of scientific computing, data science, web development and even finance and high frequency trading.
+Hi! I'm **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. I'm an avid Pythonista and Rustacean, utilizing both languages in a wide variety of projects in the fields of scientific computing, data science, web development and even finance and high frequency trading.
 
-When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages. Currently I am completely fluent in Italian, and I am in the process of studying Japanese!
+When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages. Currently I am completely fluent in Italian, and I am diving into Japanese!
 
 <div align="center">
 
