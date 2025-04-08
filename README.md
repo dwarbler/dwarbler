@@ -17,9 +17,9 @@
 
 </div>
 
-Hi! I'm **Derek Warner**, a computational physics student at the University of Illinois Urbana-Champaign and incoming software engineer at Acorns. I'm an avid Pythonista and Rustacean, utilizing both languages in a wide variety of projects in the fields of scientific computing, data science, web development and even finance and high frequency trading.
+Hi! I'm **Derek Warner**, computational physicist turned software engineer with a passion for high performance computing and data. I thrive on solving complex problems with elegant solutions, and I've never programmed a bug: only surprise features. With a background in physics and quantum information science I bring a scientific mindset to software development, perpetually refining my skills.
 
-When I'm not programming, I like to watch anime, read manga, play video games and learn foreign languages. Currently I am completely fluent in Italian, and I am diving into Japanese!
+Beyond code, I'm a lifelong learner: bilingual in Italian, anime fan (Jojo's Bizarre Adventure is #1) and an avid cat lover.
 
 <div align="center">
 
