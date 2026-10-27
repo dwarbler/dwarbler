@@ -37,7 +37,7 @@ Beyond code, I'm a lifelong learner: bilingual in Italian, anime fan (Jojo's Biz
 <div align="center">
 
 ### Contact Me
-Feel free to reach out to me in English, Italiano or 日本語 at derekw3@illinois.edu or any of the socials listed above!
+Feel free to reach out to me in English, Italiano or 日本語 at dwarner.dev@gmail.com or any of the socials listed above!
 
 </div>
 
